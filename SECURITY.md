@@ -15,3 +15,4 @@ These modes.
 ## Reporting a Vulnerability
 
 Make a Issue abt it.
+You can also private report (via github's feature)
